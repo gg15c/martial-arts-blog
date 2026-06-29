@@ -1,0 +1,45 @@
+baseURL = "https://gg15c.github.io/martial-arts-blog/"
+languageCode = "en-us"
+title = "Martial Arts Blog"
+theme = "PaperMod"
+paginate = 5
+
+[params]
+  description = "Techniques, training tips, and martial arts journey"
+  author = "Your Name"
+  defaultTheme = "auto"
+  ShowReadingTime = true
+  ShowShareButtons = true
+  ShowPostNavLinks = true
+  ShowBreadCrumbs = true
+
+[params.homeInfoParams]
+  Title = "Welcome to My Martial Arts Blog 🥋"
+  Content = "Sharing techniques, training tips, and my martial arts journey."
+
+[[params.socialIcons]]
+  name = "youtube"
+  url = "https://youtube.com/yourchannel"
+
+[[params.socialIcons]]
+  name = "github"
+  url = "https://github.com/yourusername"
+
+[menu]
+[[menu.main]]
+  identifier = "posts"
+  name = "Posts"
+  url = "/posts/"
+  weight = 1
+
+[[menu.main]]
+  identifier = "tags"
+  name = "Tags"
+  url = "/tags/"
+  weight = 2
+
+[[menu.main]]
+  identifier = "about"
+  name = "About"
+  url = "/about/"
+  weight = 3
