@@ -15,7 +15,7 @@ no technique will be effective.
 ## Key Stances
 
 ### 1. Front Stance (Zenkutsu-dachi)
-- Front knee bent over the toes
+- Front knee bent over the toes ggcl
 - Back leg straight
 - Weight distribution: 60/40
 
