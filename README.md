@@ -103,4 +103,4 @@ Visit http://localhost:1313/martial-arts-blog/
 
 ## 📜 License
 
-This project is for personal use. All content is original.
+© 2026 This project is for personal use. All content is original.
