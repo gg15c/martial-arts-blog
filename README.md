@@ -14,11 +14,13 @@ A static blog built with [Hugo](https://gohugo.io/) and hosted on
 | Hugo            | Static site generator    |
 | PaperMod        | Blog theme               |
 | GitHub Pages    | Free hosting             |
+| GitHub Actions  | Automatic deployment     |
 | Markdown        | Content writing format   |
 
 ## 📁 Project Structure
 
     martial-arts-blog/
+    ├── .github/workflows/   # GitHub Actions deploy workflow
     ├── archetypes/          # Post templates
     ├── content/             # All your content
     │   ├── posts/           # Blog posts (Markdown)
@@ -27,44 +29,75 @@ A static blog built with [Hugo](https://gohugo.io/) and hosted on
     ├── layouts/             # Custom layouts
     ├── static/              # Static assets (images, etc.)
     ├── themes/PaperMod/     # Blog theme
+    ├── deploy.sh            # Manual deploy script (backup)
     ├── hugo.toml            # Site configuration
     └── README.md            # This file
 
+## 📂 Branches
+
+| Branch       | Purpose                                          |
+|--------------|--------------------------------------------------|
+| main         | Source code (Markdown, config, theme)             |
+| gh-pages     | Built website (HTML) served by GitHub Pages       |
+
 ## ✍️ How to Add a New Post
 
-    # 1. Create new post
+### Step 1: Create a new post
+
     hugo new posts/my-new-post.md
 
-    # 2. Edit the post
+### Step 2: Edit the post and set draft to false
+
     nano content/posts/my-new-post.md
 
-    # 3. Set draft: false when ready
+Make sure the front matter has:
 
-    # 4. Preview locally
+    ---
+    title: "My New Post"
+    date: 2026-01-01
+    tags: ["tag1", "tag2"]
+    summary: "A short description."
+    draft: false
+    ---
+
+    Your content here...
+
+Note: New posts default to draft: true.
+Change it to draft: false or the post will not appear on the live site.
+
+### Step 3: Preview locally
+
     hugo server -D
 
-    # 5. Save source code
+Open http://localhost:1313/martial-arts-blog/ in your browser.
+Press Ctrl+C to stop the server.
+
+### Step 4: Push to GitHub (auto deploys)
+
     git add .
     git commit -m "New post: my new post"
     git push origin main
 
-    # 6. Build site
-    hugo --minify
+GitHub Actions will automatically:
+1. Build the site with Hugo
+2. Push the built HTML to gh-pages branch
+3. Site updates in 2-3 minutes
 
-    # 7. Deploy to gh-pages
-    cd /tmp
-    rm -rf gh-pages-deploy
-    git clone https://github.com/gg15c/martial-arts-blog.git gh-pages-deploy
-    cd gh-pages-deploy
-    git checkout gh-pages
-    git rm -rf .
-    cp -r ~/martial-arts-blog/public/* .
-    git add .
-    git commit -m "Deploy: my new post"
-    git push origin gh-pages
-    rm -rf /tmp/gh-pages-deploy
-    cd ~/martial-arts-blog
-    git checkout main
+## 🚀 Deployment
+
+### Automatic (GitHub Actions)
+
+Every push to main branch triggers automatic deployment.
+No manual steps needed.
+
+Monitor deployments at:
+https://github.com/gg15c/martial-arts-blog/actions
+
+### Manual (Deploy Script — Backup)
+
+If GitHub Actions fails, use the backup script:
+
+    ./deploy.sh
 
 ## 🏗️ Local Development
 
@@ -86,13 +119,6 @@ A static blog built with [Hugo](https://gohugo.io/) and hosted on
     hugo server -D
 
 Visit http://localhost:1313/martial-arts-blog/
-
-## 📂 Branches
-
-| Branch       | Purpose                                          |
-|--------------|--------------------------------------------------|
-| main         | Source code (Markdown, config)                   |
-| gh-pages     | Built website (HTML) served by GitHub Pages      |
 
 ## 📝 Content
 
