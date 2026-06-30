@@ -12,6 +12,7 @@ paginate = 5
   ShowShareButtons = true
   ShowPostNavLinks = true
   ShowBreadCrumbs = true
+  hideFooter = true
   hasCJKLanguage = true
 
 [params.homeInfoParams]
