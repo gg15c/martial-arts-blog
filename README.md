@@ -67,9 +67,9 @@ Change it to draft: false or the post will not appear on the live site.
 
 ### Step 3: Preview locally
 
-    hugo server -D
+    hugo server -D --baseURL http://localhost:1313/
 
-Open http://localhost:1313/martial-arts-blog/ in your browser.
+Open http://localhost:1313/ in your browser.
 Press Ctrl+C to stop the server.
 
 ### Step 4: Push to GitHub (auto deploys)
