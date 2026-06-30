@@ -116,9 +116,9 @@ If GitHub Actions fails, use the backup script:
     git submodule update --init
 
     # Run local server
-    hugo server -D
+    hugo server -D --baseURL http://localhost:1313/
 
-Visit http://localhost:1313/martial-arts-blog/
+Visit http://localhost:1313/
 
 ## 📝 Content
 
