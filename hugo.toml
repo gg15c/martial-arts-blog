@@ -1,5 +1,5 @@
 baseURL = "https://gg15c.github.io/martial-arts-blog/"
-languageCode = "zh-tw"
+languageCode = "en-us"
 title = "Martial Arts Blog"
 theme = "PaperMod"
 paginate = 5
