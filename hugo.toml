@@ -19,14 +19,6 @@ paginate = 5
   Title = "Welcome to My Martial Arts Blog 🥋"
   Content = "Sharing techniques, training tips, and my martial arts journey."
 
-[[params.socialIcons]]
-  name = "youtube"
-  url = "https://youtube.com/yourchannel"
-
-[[params.socialIcons]]
-  name = "github"
-  url = "https://github.com/yourusername"
-
 [menu]
 [[menu.main]]
   identifier = "posts"
