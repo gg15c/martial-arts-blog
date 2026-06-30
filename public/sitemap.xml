@@ -3,24 +3,39 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://localhost:1313/categories/</loc>
-    <lastmod>2025-01-27T00:00:00+00:00</lastmod>
+    <lastmod>2025-01-28T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/</loc>
-    <lastmod>2025-01-27T00:00:00+00:00</lastmod>
+    <lastmod>2025-01-28T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/posts/</loc>
-    <lastmod>2025-01-27T00:00:00+00:00</lastmod>
+    <lastmod>2025-01-28T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/</loc>
-    <lastmod>2025-01-27T00:00:00+00:00</lastmod>
+    <lastmod>2025-01-28T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/categories/%E5%8A%9F%E5%A4%AB/</loc>
+    <lastmod>2025-01-28T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/%E6%90%8F%E6%93%8A/</loc>
+    <lastmod>2025-01-28T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/%E8%85%BF%E6%B3%95/</loc>
+    <lastmod>2025-01-28T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/%E8%A9%A0%E6%98%A5%E6%8B%B3/</loc>
+    <lastmod>2025-01-28T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/wing-chun-leg-techniques/</loc>
+    <lastmod>2025-01-28T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/%E9%BB%83%E6%B7%B3%E6%A8%91/</loc>
+    <lastmod>2025-01-28T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/%E5%85%A5%E9%96%80/</loc>
     <lastmod>2025-01-27T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/%E5%85%A7%E5%AE%B6%E6%8B%B3/</loc>
-    <lastmod>2025-01-27T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/categories/%E5%8A%9F%E5%A4%AB/</loc>
     <lastmod>2025-01-27T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/%E5%A4%AA%E6%A5%B5%E6%8B%B3/</loc>

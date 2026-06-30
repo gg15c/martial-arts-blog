@@ -1,26 +1,19 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>功夫 on Martial Arts Blog</title>
-    <link>http://localhost:1313/categories/%E5%8A%9F%E5%A4%AB/</link>
-    <description>Recent content in 功夫 on Martial Arts Blog</description>
+    <title>搏擊 on Martial Arts Blog</title>
+    <link>http://localhost:1313/tags/%E6%90%8F%E6%93%8A/</link>
+    <description>Recent content in 搏擊 on Martial Arts Blog</description>
     <generator>Hugo</generator>
     <language>zh-tw</language>
     <lastBuildDate>Tue, 28 Jan 2025 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/categories/%E5%8A%9F%E5%A4%AB/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/%E6%90%8F%E6%93%8A/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>詠春腿法 — 黃淳樑</title>
       <link>http://localhost:1313/posts/wing-chun-leg-techniques/</link>
       <pubDate>Tue, 28 Jan 2025 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/posts/wing-chun-leg-techniques/</guid>
       <description>黃淳樑師傅詳解詠春拳腿法，破解「詠春無腳」的誤解。</description>
-    </item>
-    <item>
-      <title>太極拳入門指南</title>
-      <link>http://localhost:1313/posts/tai-chi-basics/</link>
-      <pubDate>Mon, 27 Jan 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/tai-chi-basics/</guid>
-      <description>學習太極拳的基本概念與入門動作。</description>
     </item>
   </channel>
 </rss>
