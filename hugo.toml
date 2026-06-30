@@ -1,5 +1,5 @@
 baseURL = "https://gg15c.github.io/martial-arts-blog/"
-languageCode = "en-us"
+languageCode = "zh-tw"
 title = "Martial Arts Blog"
 theme = "PaperMod"
 paginate = 5
@@ -12,6 +12,7 @@ paginate = 5
   ShowShareButtons = true
   ShowPostNavLinks = true
   ShowBreadCrumbs = true
+  hasCJKLanguage = true
 
 [params.homeInfoParams]
   Title = "Welcome to My Martial Arts Blog 🥋"

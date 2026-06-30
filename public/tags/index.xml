@@ -1,52 +1,68 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-	<channel>
-		<title>Tags on Martial Arts Blog</title>
-		<link>http://localhost:1313/martial-arts-blog/tags/</link>
-		<description>Recent content in Tags on Martial Arts Blog</description>
-		<generator>Hugo</generator>
-		<language>en-us</language>
-		
-		
-		
-		
-			<lastBuildDate>Sun, 26 Jan 2025 00:00:00 +0000</lastBuildDate>
-		
-			<atom:link href="http://localhost:1313/martial-arts-blog/tags/index.xml" rel="self" type="application/rss+xml" />
-			<item>
-				<title>Intermediate</title>
-				<link>http://localhost:1313/martial-arts-blog/tags/intermediate/</link>
-				<pubDate>Sun, 26 Jan 2025 00:00:00 +0000</pubDate>
-				<guid>http://localhost:1313/martial-arts-blog/tags/intermediate/</guid>
-				<description></description>
-			</item>
-			<item>
-				<title>Kicks</title>
-				<link>http://localhost:1313/martial-arts-blog/tags/kicks/</link>
-				<pubDate>Sun, 26 Jan 2025 00:00:00 +0000</pubDate>
-				<guid>http://localhost:1313/martial-arts-blog/tags/kicks/</guid>
-				<description></description>
-			</item>
-			<item>
-				<title>Beginner</title>
-				<link>http://localhost:1313/martial-arts-blog/tags/beginner/</link>
-				<pubDate>Mon, 20 Jan 2025 00:00:00 +0000</pubDate>
-				<guid>http://localhost:1313/martial-arts-blog/tags/beginner/</guid>
-				<description></description>
-			</item>
-			<item>
-				<title>Fundamentals</title>
-				<link>http://localhost:1313/martial-arts-blog/tags/fundamentals/</link>
-				<pubDate>Mon, 20 Jan 2025 00:00:00 +0000</pubDate>
-				<guid>http://localhost:1313/martial-arts-blog/tags/fundamentals/</guid>
-				<description></description>
-			</item>
-			<item>
-				<title>Stances</title>
-				<link>http://localhost:1313/martial-arts-blog/tags/stances/</link>
-				<pubDate>Mon, 20 Jan 2025 00:00:00 +0000</pubDate>
-				<guid>http://localhost:1313/martial-arts-blog/tags/stances/</guid>
-				<description></description>
-			</item>
-	</channel>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Tags on Martial Arts Blog</title>
+    <link>http://localhost:1313/tags/</link>
+    <description>Recent content in Tags on Martial Arts Blog</description>
+    <generator>Hugo</generator>
+    <language>zh-tw</language>
+    <lastBuildDate>Mon, 27 Jan 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>入門</title>
+      <link>http://localhost:1313/tags/%E5%85%A5%E9%96%80/</link>
+      <pubDate>Mon, 27 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/%E5%85%A5%E9%96%80/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>內家拳</title>
+      <link>http://localhost:1313/tags/%E5%85%A7%E5%AE%B6%E6%8B%B3/</link>
+      <pubDate>Mon, 27 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/%E5%85%A7%E5%AE%B6%E6%8B%B3/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>太極拳</title>
+      <link>http://localhost:1313/tags/%E5%A4%AA%E6%A5%B5%E6%8B%B3/</link>
+      <pubDate>Mon, 27 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/%E5%A4%AA%E6%A5%B5%E6%8B%B3/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Intermediate</title>
+      <link>http://localhost:1313/tags/intermediate/</link>
+      <pubDate>Sun, 26 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/intermediate/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Kicks</title>
+      <link>http://localhost:1313/tags/kicks/</link>
+      <pubDate>Sun, 26 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/kicks/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Beginner</title>
+      <link>http://localhost:1313/tags/beginner/</link>
+      <pubDate>Mon, 20 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/beginner/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Fundamentals</title>
+      <link>http://localhost:1313/tags/fundamentals/</link>
+      <pubDate>Mon, 20 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/fundamentals/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Stances</title>
+      <link>http://localhost:1313/tags/stances/</link>
+      <pubDate>Mon, 20 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/stances/</guid>
+      <description></description>
+    </item>
+  </channel>
 </rss>
