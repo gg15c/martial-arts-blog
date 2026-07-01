@@ -120,13 +120,6 @@ If GitHub Actions fails, use the backup script:
 
 Visit http://localhost:1313/
 
-## 📝 Content
-
-| Post                            | Tags                            |
-|---------------------------------|---------------------------------|
-| Front Kick Basics               | kicks, fundamentals, beginner   |
-| Essential Martial Arts Stances  | stances, fundamentals, beginner |
-
 ## 📜 License
 
 © 2026 This project is for personal use. All content is original.
