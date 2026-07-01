@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>黃淳樑 on Martial Arts Blog</title>
-    <link>http://localhost:1313/tags/%E9%BB%83%E6%B7%B3%E6%A8%91/</link>
+    <link>https://gg15c.github.io/martial-arts-blog/tags/%E9%BB%83%E6%B7%B3%E6%A8%91/</link>
     <description>Recent content in 黃淳樑 on Martial Arts Blog</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 28 Jan 2025 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/%E9%BB%83%E6%B7%B3%E6%A8%91/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://gg15c.github.io/martial-arts-blog/tags/%E9%BB%83%E6%B7%B3%E6%A8%91/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>詠春腿法 — 黃淳樑</title>
-      <link>http://localhost:1313/posts/wing-chun-leg-techniques/</link>
+      <link>https://gg15c.github.io/martial-arts-blog/posts/wing-chun-leg-techniques/</link>
       <pubDate>Tue, 28 Jan 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/wing-chun-leg-techniques/</guid>
+      <guid>https://gg15c.github.io/martial-arts-blog/posts/wing-chun-leg-techniques/</guid>
       <description>黃淳樑師傅詳解詠春拳腿法，破解「詠春無腳」的誤解。</description>
     </item>
   </channel>
