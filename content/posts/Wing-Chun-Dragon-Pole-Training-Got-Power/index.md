@@ -123,7 +123,7 @@ The main points of dragon pole training are to develop:
 
 > To develop it is to develop the ability to finish your opponent before he finishes you, or as the Wing Chun axiom goes to **"be quick to end the fight."**
 
-> 所謂「決勝心」就是要做到「在對手先結束你之前，先把對手結束」——詠春拳的座右銘是**「快速解決」**。
+> 所謂「決勝心」就是要做到「在對手先結束你之前，先把對手結束」——詠春拳的座右銘是 **「快速解決」**。
 
 ---
 
@@ -131,7 +131,7 @@ The main points of dragon pole training are to develop:
 
 > It is said in the traditional Wing Chun training songs that **"the dragon pole makes only one sound."**
 
-> 在傳統的詠春拳拳訣裡，有句話說**「棍無兩響」**。
+> 在傳統的詠春拳拳訣裡，有句話說 **「棍無兩響」**。
 
 This is because at higher levels of training we do not stop our opponent's pole with multiple blocking actions while waiting for a gap. Drawing out your opponent's reaction creates the gap. By forcing your opponent into action he or she will create a gap for you.
 
