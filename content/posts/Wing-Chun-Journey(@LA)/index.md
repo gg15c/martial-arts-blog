@@ -1,5 +1,6 @@
 ---
 title: "Wing Chun Journey (@LA)"
+slug: "wing-chun-journey@la"
 date: 2017-11-05
 tags: ["詠春拳", "洛杉磯", "Gary Lam", "學武心得"]
 categories: ["學武心得"]
