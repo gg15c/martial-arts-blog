@@ -12,8 +12,11 @@ paginate = 5
   ShowShareButtons = false
   ShowPostNavLinks = true
   ShowBreadCrumbs = true
-  hideFooter = true
   hasCJKLanguage = true
+
+[params.footer]
+  text = "© Records from 2009"
+  hideCopyright = true
 
 [params.homeInfoParams]
   Title = "Welcome to My Martial Arts Blog 🥋"
