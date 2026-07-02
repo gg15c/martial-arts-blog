@@ -1,5 +1,5 @@
 ---
-title: "Wing Chun Journey (@LA)"
+title: "在洛杉磯學習林文學詠春拳"
 slug: "wing-chun-journey@la"
 date: 2017-11-05
 tags: ["詠春拳", "洛杉磯", "Gary Lam", "學武心得"]
