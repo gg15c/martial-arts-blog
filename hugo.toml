@@ -6,9 +6,8 @@ paginate = 5
 
 [params]
   description = "Techniques, training tips, and martial arts journey"
-  author = "gg15c"
+  author = ""
   defaultTheme = "auto"
-  hideAuthor = true
   ShowReadingTime = true
   ShowShareButtons = false
   ShowPostNavLinks = true
