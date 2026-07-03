@@ -351,5 +351,3 @@ The idea is to take the large, wide, explosive movements used in dragon pole tra
 ---
 
 *文章作者：Daniel O'Neill*
-
-*test*
