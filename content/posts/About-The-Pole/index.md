@@ -26,6 +26,8 @@ When my teacher came to Germany for his second time in 1986, he taught some of m
 
 1986 年，我師父第二次來德國時，就教了我一些學生長棍的基礎動作，照片可以為證。這些照片是 1986 年 5 月在 Altena-Westfalia 的紀念碑前拍的。他們大多才跟我練了一兩年，而我自己認識 Sifu Wong 也才三年而已！
 
+![1986 年訓練照片](pole-2.jpg)
+
 ### 為什麼這麼早教？
 
 The reasons that he taught it this early were manyfold:
@@ -58,6 +60,8 @@ Long pole training, especially the low stance, contributes greatly to increased 
 
 長棍訓練，尤其是低馬步，對提升**啟動速度**和**步法靈活度**幫助極大。
 
+![啟動速度與步法訓練](pole-3.jpg)
+
 ### 二、整體發力（Unified Body Power）
 
 Another important skill, developed through various pole exercises, is **power from the unified body**. Without this, punches are mechanical, deriving its power based on the diameter of the practitioner's arms.
@@ -68,6 +72,8 @@ Another important skill, developed through various pole exercises, is **power fr
 
 > 哪怕一個人練了 15 年「手臂詠春（只靠手打拳）」，一開始練整體發力時，看起來也會像個完全的新手。遺憾的是，他現在已經老了 15 歲，他的詠春也錯過了 15 年的關鍵發展。
 
+![整體發力訓練](pole-4.jpg)
+
 ### 三、打擊精準度
 
 Another important point is the fact that long pole training not only increases punching power, but also **punching precision**, meaning concentrating max force at a small area of impact.
@@ -77,6 +83,8 @@ Another important point is the fact that long pole training not only increases p
 > More about that later in my book which will include some of Wong Shun Leung's teachings on weaponry, some of them handwritten and translated.
 
 > 這方面我之後會在我的書裡多寫一些，書中也會收錄黃淳樑關於兵器的教導，部分還包含他手稿的翻譯。
+
+![打擊精準度訓練](pole-5.jpg)
 
 ### 長棍訓練益處總覽
 
