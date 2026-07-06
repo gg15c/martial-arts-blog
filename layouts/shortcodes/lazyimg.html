@@ -1,0 +1,7 @@
+{{ $src := .Get "src" }}
+{{ $alt := .Get "alt" }}
+{{ $class := .Get "class" | default "" }}
+{{ $width := .Get "width" }}
+{{ $height := .Get "height" }}
+
+<img src="{{ $src }}" alt="{{ $alt }}" class="{{ $class }}" loading="lazy" {{ with $width }}width="{{ . }}"{{ end }} {{ with $height }}height="{{ . }}"{{ end }}>
