@@ -15,7 +15,7 @@ paginate = 5
   hasCJKLanguage = true
 
 [params.footer]
-  text = "© Records from 2009"
+  text = "© The journey from 2008"
   hideCopyright = true
 
 [params.homeInfoParams]
