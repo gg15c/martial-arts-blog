@@ -1,20 +1,30 @@
 ---
-title: "About Me"
+title: "About"
 layout: "single"
 draft: false
 ---
 
-## About This Blog
+## Ving Tsun Lab
 
-Welcome! I'm a martial arts enthusiast sharing my
-training journey, techniques, and tips.
+A personal Wing Chun training journal.
 
-### My Background
-- 🥋 10 years of training
-- 🏆 Multiple tournament competitor
-- 📖 Lifelong student of martial arts
+Documenting techniques, principles, and insights from the Wong Shun Leung lineage.
 
-### What You'll Find Here
-- Technique breakdowns
-- Training routines
-- Philosophy and mindset tips
+**Lineage:** Ip Man → Wong Shun Leung → Gary Lam
+
+**Certified:** Outstanding Level (Level 1), 2018
+
+---
+
+## What's Here
+
+- Technique breakdowns and analysis
+- Training notes and reflections
+- Article translations
+- Weapons training insights
+
+---
+
+## Contact
+
+📧 TBD
