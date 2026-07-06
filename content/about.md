@@ -2,6 +2,7 @@
 title: "About"
 layout: "single"
 draft: false
+disableReadingTime: true
 ---
 
 ## Ving Tsun Lab
