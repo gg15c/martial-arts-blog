@@ -4,7 +4,7 @@ slug: "wooden-man-training"
 date: 2025-02-10
 tags: ["詠春拳", "木人樁", "Gary Lam", "黃淳樑", "訓練方法"]
 categories: ["功夫"]
-summary: "深入解析詠春拳木人樁訓練的核心理念、四大特質與三段套路，由 Gregory E. LeBlanc 撰文。"
+summary: "深入解析詠春拳木人樁訓練的核心理念、四大特質與三段套路"
 draft: false
 ---
 
