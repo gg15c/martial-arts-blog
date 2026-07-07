@@ -13,7 +13,10 @@ Documenting techniques, principles, and insights from the Wong Shun Leung lineag
 
 **Lineage:** Ip Man → Wong Shun Leung → Gary Lam
 
-**Certified:** Outstanding Level (Level 1), 2018
+**Certified:**
+
+- Outstanding Level (Level 1), 2018
+- Ving Tsun Athletic Association (VTAA) — Lifetime Membership, 2018
 
 ---
 

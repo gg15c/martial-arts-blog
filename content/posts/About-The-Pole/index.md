@@ -66,7 +66,7 @@ Long pole training, especially the low stance, contributes greatly to increased 
 
 Another important skill, developed through various pole exercises, is **power from the unified body**. Without this, punches are mechanical, deriving its power based on the diameter of the practitioner's arms.
 
-透過各種棍法練習培養出的另一個重要技能，就是**「整體發力」**。少了這個，出拳就會很機械化，力量完全取決於你手臂有多粗。
+透過各種棍法練習培養出的另一個重要技能，就是 **「整體發力」**。少了這個，出拳就會很機械化，力量完全取決於你手臂有多粗。
 
 > Even somebody that has done "Arm Ving Tsun" for 15 years is going to look like a raw beginner when starting this exercise. Unfortunately, he now is 15 years older and his Ving Tsun has missed out on 15 years of essential influences.
 
@@ -84,7 +84,7 @@ Another important point is the fact that long pole training not only increases p
 
 > 這方面我之後會在我的書裡多寫一些，書中也會收錄黃淳樑關於兵器的教導，部分還包含他手稿的翻譯。
 
-![打擊精準度訓練](pole-5.jpg)
+{{< lazyimg src="pole-5.jpg" alt="打擊精準度訓練" >}}
 
 ### 長棍訓練益處總覽
 
