@@ -253,11 +253,11 @@ Profound doubts about one's own system also lead to:
 
 對自身系統的嚴重懷疑，也導致：
 
-| | Problem | 問題 |
-|---|---------|------|
-| 🔄 | Constantly changing forms | 不斷修改套路 |
-| 🔄 | Shifting rationales for individual techniques | 隨意替換單一技巧的解釋 |
-| 🔄 | Sudden adjustments of core principles | 突然改變核心原則 |
+| Problem | 問題 |
+|---------|------|
+| Constantly changing forms | 不斷修改套路 |
+| Shifting rationales for individual techniques | 隨意替換單一技巧的解釋 |
+| Sudden adjustments of core principles | 突然改變核心原則 |
 
 > Ultimately this provides a fertile breeding ground for **obfuscation** as the answers to challenging questions and explanations for useless techniques can simply be labeled **"top secret."**
 
