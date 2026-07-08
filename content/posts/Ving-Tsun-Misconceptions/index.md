@@ -173,10 +173,12 @@ There are many reasons why moving your own centerline back and forth makes no se
 
 把自己的中線轉來轉去毫無意義，理由很多：
 
-- ❌ It does not improve but rather **worsens your position**
-- ❌ You have to fight **your opponent AND your own lack of stability**
-- ❌ Your **counterpunching force is reduced**
-- ❌ All weight on the rear leg **impairs ability to maneuver**
+| | Problem | 問題 |
+|---|---------|------|
+| ❌ | Worsens your position | 惡化你的處境 |
+| ❌ | Fight your opponent AND your own instability | 同時對抗敵人與自己的不穩定 |
+| ❌ | Counterpunching force is reduced | 反擊力道被削弱 |
+| ❌ | Weight on rear leg impairs maneuvering | 重心後移，難以安全移動 |
 
 > By the way, **boxers learn very early on to always pursue and reorient themselves towards their opponent**.
 
@@ -199,7 +201,7 @@ Using skillful pursuit techniques we try to:
 
 > This approach is part of Ving Tsun and is first introduced in the second form **Chum Kiu**. It is also part of the initial Chi Sao experiences of every Ving Tsun student.
  
-> 這個概念本來就屬於詠春，最早在第二套拳 **「尋橋」**中引入，也是每個詠春學生初學黐手時就會接觸到的內容。
+> 這個概念本來就屬於詠春，最早在第二套拳 **「尋橋」** 中引入，也是每個詠春學生初學黐手時就會接觸到的內容。
 
 ---
 
@@ -217,13 +219,13 @@ There are arrogant Ving Tsun practitioners who mimic the "stupid karate guy" who
 
 > But it's exactly those "stupid guys" and their hooks and haymakers that throw the arrogant practitioner's Ving Tsun system off balance.
 
-> 但諷刺的是，往往就是這些「笨傢伙」的**勾拳和大擺拳**，把傲慢的詠春打得東倒西歪。
+> 但諷刺的是，往往就是這些「笨傢伙」的 **勾拳和大擺拳**，把傲慢的詠春打得東倒西歪。
 
 ### 自家門派的矛盾
 
 Even though Ving Tsun is supposed to be effective and dangerous, defending from attacks from their own system — oddly enough — **never poses a real challenge**. Each punch is picture-perfect and easily deflected.
 
-儘管詠春號稱既實用又致命，但奇怪的是，面對自家門派的攻擊時卻**從來不費吹灰之力**。每一拳都完美如畫、輕鬆化解。
+儘管詠春號稱既實用又致命，但奇怪的是，面對自家門派的攻擊時卻 **從來不費吹灰之力** 。每一拳都完美如畫、輕鬆化解。
 
 | 面對自家門派 | 面對其他武術 |
 |-------------|-------------|
@@ -251,13 +253,15 @@ Profound doubts about one's own system also lead to:
 
 對自身系統的嚴重懷疑，也導致：
 
-- 🔄 **Constantly changing forms** — 不斷修改套路
-- 🔄 **Shifting rationales for individual techniques** — 隨意替換單一技巧的解釋
-- 🔄 **Sudden adjustments of core principles** — 突然改變核心原則
+| | Problem | 問題 |
+|---|---------|------|
+| 🔄 | Constantly changing forms | 不斷修改套路 |
+| 🔄 | Shifting rationales for individual techniques | 隨意替換單一技巧的解釋 |
+| 🔄 | Sudden adjustments of core principles | 突然改變核心原則 |
 
 > Ultimately this provides a fertile breeding ground for **obfuscation** as the answers to challenging questions and explanations for useless techniques can simply be labeled **"top secret."**
 
-> 最後，這就成了**故弄玄虛**的溫床——面對刁鑽的問題或解釋不了的無用技巧，只要貼上一張**「最高機密」**的標籤就能蒙混過關。
+> 最後，這就成了 **故弄玄虛** 的溫床——面對刁鑽的問題或解釋不了的無用技巧，只要貼上一張 **「最高機密」** 的標籤就能蒙混過關。
 
 ---
 
