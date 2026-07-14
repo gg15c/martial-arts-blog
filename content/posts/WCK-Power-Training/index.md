@@ -63,7 +63,7 @@ To this end Wing Chun has developed a variety of methods to promote and train st
 
 Deriving striking power from an alignment with the ground or from the body alignment and mass in motion is generally referred to as **structural power**. Structural power is an understanding of the concept of **Power Points** on the body and how they relate to using the angle of the joints in unison.
 
-從腳踏在地面、或是身體對齊、質量在移動時產生的擊力，通常會稱作 **「結構力量」**。「結構力量」其實就是在說 **「力量點」**這個概念——每個力量點都對應身體的 12 大關節，只要把這些關節的角度同時調整好、穩固住，就能把力量最大限度地從身體傳到目標。
+從腳踏在地面、或是身體對齊、質量在移動時產生的擊力，通常會稱作 **「結構力量」**。「結構力量」其實就是在說 **「力量點」** 這個概念——每個力量點都對應身體的 12 大關節，只要把這些關節的角度同時調整好、穩固住，就能把力量最大限度地從身體傳到目標。
 
 ### 12 大關節的 6 個關鍵力量點
 
@@ -191,7 +191,7 @@ Then the student is given various lines of techniques to perform, these cover th
 
 At this stage the Arrow Punching exercise and single leg form training are introduced, these practices develop whole body power in motion and train leg strength and balance.
 
-在這個階段會加入 **「箭拳」**練習以及 **「單腿」**的練習：
+在這個階段會加入 **「箭拳」** 練習以及 **「單腿」** 練習：
 
 | 練習 | Exercise | 訓練目標 |
 |------|----------|----------|
@@ -273,7 +273,7 @@ Advanced levels of all form and drill training end by linking the various techni
 
 Wing Chun power training is continued further by practicing the **Pun Sao** drill and eventually practicing the **Baat Jaam Do** (Double 8 cut knife).
 
-詠春的力量訓練接下來會練 **「盤手」**這套功夫，最後再練 **「八斬刀」**。
+詠春的力量訓練接下來會練 **「盤手」** 這套功夫，最後再練 **「八斬刀」**。
 
 The Pun Sao drill is a variation of the basic Qi Sao training (Wing Chun free sparring training), and as in Qi Sao is begun with the arms interlocked and the legs positioned in a training stance. In Pun Sao the goal is to learn how to harness and apply structural power in Qi Sao, this is done by an emphases on the sitting (structural alignment with the ground) and moving (body mass in motion) power as pressure is applied to the opponents centerline.
 
