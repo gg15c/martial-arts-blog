@@ -144,7 +144,7 @@ Modern Wing Chun practice develops the Dragon Pole less for its application as a
 
 Sifu Gary Lam of Monterey Park California describes the Dragon Pole as critical training for the development of what he calls **Internal Power**.
 
-加州蒙特利公園的林師父告訴我們，六點半棍是培養他所說的**「內力」**的關鍵訓練工具。
+加州蒙特利公園的林師父告訴我們，六點半棍是培養他所說的 **「內力」** 的關鍵訓練工具。
 
 ### 什麼是內力？
 
@@ -304,7 +304,7 @@ Wing Chun was designed to provide a direct and powerful answer to the fast paced
 
 > Sifu Lam describes the journey of Wing Chun training as going **from the simple to the complex and in the end back to the simple again**; advanced Wing Chun develops not from its outward form but rather from a deepening of the essential concepts, structure and skills.
 
-> 林師父把詠春的修行過程比喻成**「從簡單到複雜，再回到簡單」**；高手的詠春不在於外形變得多花俏，而是把基本概念、身體結構與技巧不斷深化，最後回到最純粹、最有效的打法。
+> 林師父把詠春的修行過程比喻成 **「從簡單到複雜，再回到簡單」** ；高手的詠春不在於外形變得多花俏，而是把基本概念、身體結構與技巧不斷深化，最後回到最純粹、最有效的打法。
 
 ### 傳承與革新
 
