@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>詠春拳 on Martial Arts Blog</title>
+    <link>http://localhost:38607/martial-arts-blog/categories/%E8%A9%A0%E6%98%A5%E6%8B%B3/</link>
+    <description>Recent content in 詠春拳 on Martial Arts Blog</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 02 Jul 2026 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:38607/martial-arts-blog/categories/%E8%A9%A0%E6%98%A5%E6%8B%B3/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>The Butterfly Hands of Wing Chun</title>
+      <link>http://localhost:38607/martial-arts-blog/posts/the-butterfly-hands-of-wing-chun/</link>
+      <pubDate>Thu, 02 Jul 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:38607/martial-arts-blog/posts/the-butterfly-hands-of-wing-chun/</guid>
+      <description>Exploring the butterfly hands technique in Wing Chun martial arts.</description>
+    </item>
+  </channel>
+</rss>
