@@ -166,9 +166,9 @@ Internal Power becomes the sum total of the bodies force, guided and authenticat
 
 | 特質 | Quality | 說明 |
 |------|---------|------|
-| **穩（Jun）** | Stability | 身體的穩定性 |
+| **準（Jun）** | Precision | 擊中的精準度 |
+| **穩（Wan）** | Stability | 身體的穩定性 |
 | **快（Fai）** | Speed | 出招的速度 |
-| **準（Wan）** | Accuracy | 擊中的精準度 |
 | **勁（Geng）** | Power | 出招的勁道 |
 
 這四項素質是林師父認為任何功夫「精通」的標準，也正是詠春所有動作要完整融合的要素。
