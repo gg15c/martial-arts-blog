@@ -18,7 +18,7 @@ Almost synonymous with Wing Chun Kung Fu is the Muk Yan Jong or wooden man (a.k.
 
 **Sifu Gary Lam**, an expert in the Wong Shun Leung Wing Chun lineage, describes the Wooden Man as essential for the refinement of a Wing Chun practitioner's advanced skills.
 
-幾乎與詠春拳齊名的就是**木人樁**。木人樁廣為人知卻常被誤解，它被認為是詠春拳培養真正大師級功力的最強大工具。黃淳樑系詠春專家**林文學師傅**形容，木人樁對於詠春練習者精進高階技巧至關重要。
+幾乎與詠春拳齊名的就是 **「木人樁」**。木人樁廣為人知卻常被誤解，它被認為是詠春拳培養真正大師級功力的最強大工具。黃淳樑系詠春專家 **「林文學師傅」** 形容，木人樁對於詠春練習者精進高階技巧至關重要。
 
 ---
 
@@ -78,7 +78,7 @@ Changes like this take place because Wing Chun is not a static martial art, it i
 
 Sifu Lam denotes four essential qualities needed for the mastery of Wing Chun techniques and application. He sees these four key ideas as the common denominator in any type of mastery, not only in the practice of martial arts.
 
-林師傅指出了掌握詠春技巧與應用所需的**四個基本特質**。林師傅認為，這四個關鍵概念是任何領域達到大師境界的共同點，而不僅僅限於武術練習。
+林師傅指出了掌握詠春技巧與應用所需的 **「四個基本特質」**。林師傅認為，這四個關鍵概念是任何領域達到大師境界的共同點，而不僅僅限於武術練習。
 
 | 特質 | Quality | 說明 |
 |------|---------|------|
@@ -99,7 +99,7 @@ Wing Chun at this level is a product of these four qualities of mastery working 
 
 A hidden fifth quality is sometimes spoken about and that is **cruelty**. This fifth quality is not a physical attribute per se but instead is an attitude necessary for combat, a commitment required for survival.
 
-有時人們會談到隱藏的第五種特質，那就是**「殘忍」**。這第五種特質本身並不是身體屬性，而是一種戰鬥必備的態度，一種為了生存所需的決心。
+有時人們會談到隱藏的第五種特質，那就是 **「殘忍」**。這第五種特質本身並不是身體屬性，而是一種戰鬥必備的態度，一種為了生存所需的決心。
 
 To reach the highest levels of ability and someday become a graduate of the Gary Lam Wing Chun Kung Fu program, the student must make these qualities his very own. The Muk Yan Jong provides a controlled, deliberate opportunity to enhance and bring together these four qualities of mastery.
 
@@ -111,21 +111,21 @@ To reach the highest levels of ability and someday become a graduate of the Gary
 
 The form itself consists of 120 movements broken into three distinct sections of training.
 
-包含 120 個動作的套路分為**三個不同的訓練階段**：
+包含 120 個動作的套路分為 **「三個不同的訓練階段」**：
 
 ### 第一段 — 基本技巧與結構對齊
 
 The first section is devoted to the basic techniques and structural alignment of Wing Chun.
 
-第一部分專注於詠春的**基本技巧與身體結構對齊**。
+第一部分專注於詠春的 **「基本技巧與身體結構對齊」**。
 
 By this point in a student's training many of these movements have already been seen in the solo form training (i.e. Siu Nim Tao, Chum Kiu, and Biu Jee), what has changed is the student's opportunity now to train position, timing and his body's structural alignment.
 
-到了這個訓練階段，許多動作已經在單人套路（即小念頭、尋橋和鏢指）中見過，現在改變的是，學生有機會訓練**位置、時機**以及**身體的結構對齊**。
+到了這個訓練階段，許多動作已經在單人套路（即小念頭、尋橋和鏢指）中見過，現在改變的是，學生有機會訓練 **「位置、時機」** 以及 **「身體的結構對齊」**。
 
 > Sifu Lam often says that a Wing Chun fighter **wins with his structure and angle and not with brute force**; otherwise there would be no point to developing martial ability.
 
-> 林師傅常說，詠春拳手是靠**結構和角度**獲勝，而不是靠蠻力；否則練習武術就沒有意義了。
+> 林師傅常說，詠春拳手是靠 **「結構和角度」** 獲勝，而不是靠蠻力；否則練習武術就沒有意義了。
 
 ### 第二段 — 機會動作（Chance Actions）
 
@@ -135,7 +135,7 @@ The second section focuses on chance actions. These techniques involve different
 
 These movements are usually done only when the opportunity presents itself, used instinctively as the opponent is in motion. Sifu Lam calls these types of techniques **helping actions**, used typically as a second movement to a primary hand.
 
-這些動作通常只有在機會出現時才會使用，在對手移動時本能地施展。林師傅將這類技巧稱為**「輔助動作」**，通常作為主要手法的第二動作。
+這些動作通常只有在機會出現時才會使用，在對手移動時本能地施展。林師傅將這類技巧稱為 **「輔助動作」**，通常作為主要手法的第二動作。
 
 | 動作類型 | 說明 |
 |----------|------|
@@ -146,7 +146,7 @@ These movements are usually done only when the opportunity presents itself, used
 
 The third section is devoted exclusively to training the footwork.
 
-第三部分專門用於訓練**步法**。
+第三部分專門用於訓練 **「步法」**。
 
 Here the techniques of stepping, kicking, trapping, and leg brakes are honed. The techniques involve a combined use of the hands working in concert with the footwork applications.
 
@@ -177,7 +177,7 @@ Here the techniques of stepping, kicking, trapping, and leg brakes are honed. Th
 
 Sifu Lam calls the wooden dummy **your second coach** (or second Sifu).
 
-林師傅將木人樁稱為你的**第二個教練**（或第二個師傅）。
+林師傅將木人樁稱為你的 **「第二個教練」**（或第二個師傅）。
 
 This is due to the fact that as you train on the dummy it will:
 
@@ -190,7 +190,7 @@ This is due to the fact that as you train on the dummy it will:
 
 Practicing at his full potential the student should be thinking about what the dummy is doing, visualizing himself in an actual confrontation. He should unite his actions with his intent and endeavor to harness his emotional power (**Sam Yi Hap Yat**).
 
-在發揮最大潛力練習時，學生應該思考木人樁正在做什麼，想像自己處於實際的對抗中。他應該將自己的動作與意圖結合，並努力掌控自己的情感力量（**心意合一**）。
+在發揮最大潛力練習時，學生應該思考木人樁正在做什麼，想像自己處於實際的對抗中。他應該將自己的動作與意圖結合，並努力掌控自己的情感力量（**「心意合一」**）。
 
 ### 陰陽手 — Hard and Soft Actions
 
@@ -211,7 +211,7 @@ He develops an ability to apply soft and tight striking power and how not to let
 
 > Crucial to proper training is creating a **springing movement** in the dummy, by matching the footwork with that movement the student uses the dummy's recoil to train timing and position.
 
-> 正確訓練的關鍵是在木人樁中創造一種**彈性動作**，透過步法配合這種動作，學生利用木人樁的後座力來訓練時機和位置。
+> 正確訓練的關鍵是在木人樁中創造一種 **「彈性動作」**，透過步法配合這種動作，學生利用木人樁的後座力來訓練時機和位置。
 
 ---
 
@@ -233,11 +233,11 @@ Once in Sigung Wong's school a student during training had broken an arm from a 
 
 > Instead of being praised he was severely chastised. Sigung Wong scolded him in no uncertain terms, not only had he broken a perfectly good dummy arm but he was also **chasing hand and not the centerline**.
 
-> 然而他不但沒有受到讚賞，反而受到了嚴厲的訓斥。黃師公毫不含糊地責罵他，他不僅打壞了一根完好的木樁手臂，而且他是在**「追手」，而不是追中線**。
+> 然而他不但沒有受到讚賞，反而受到了嚴厲的訓斥。黃師公毫不含糊地責罵他，他不僅打壞了一根完好的木樁手臂，而且他是在 **「追手」，而不是追中線」**。
 
 > This goes to show that Muk Yan Jong training is very specific and capitalizes on the sound principles of Wing Chun open hand concepts for training. **The wooden dummy trains students on how to fight smarter, not harder.**
 
-> 這說明木人樁訓練非常具體，並且充分利用了詠春拳開手概念的合理原則進行訓練。**木人樁訓練學生如何更聰明地戰鬥，而不是更費力地戰鬥。**
+> 這說明木人樁訓練非常具體，並且充分利用了詠春拳開手概念的合理原則進行訓練。**「木人樁訓練學生如何更聰明地戰鬥，而不是更費力地戰鬥。」**
 
 ---
 
@@ -245,11 +245,11 @@ Once in Sigung Wong's school a student during training had broken an arm from a 
 
 Finally students train Muk Yan Jong by practicing away from the dummy, done by going through the movements in the air. This training perfects control in the form and helps to point out where any obvious mistakes or lapses are.
 
-最後，學生會透過遠離木人樁進行練習，也就是在空氣中演練這些動作（**打空樁**）。這種訓練完善了套路中的控制力，有助於指出任何明顯的錯誤或疏漏。
+最後，學生會透過遠離木人樁進行練習，也就是在空氣中演練這些動作（**「打空樁」**）。這種訓練完善了套路中的控制力，有助於指出任何明顯的錯誤或疏漏。
 
 > Wooden dummy training ultimately becomes a challenge match with a **shadow or thinking enemy**. The training routine is imagined as a real encounter, the practitioner sees each move as a response to an enemy's attack; this deeply impresses perfect control of the actions and their automatic application in combat.
 
-> 木人樁訓練最終成為一場與**影子或假想敵的挑戰賽**。訓練常規被想像成真實的遭遇戰，練習者將每一個動作視為對敵人攻擊的反應；這深深地印證了對動作的完美控制以及它們在戰鬥中的本能應用。
+> 木人樁訓練最終成為一場與 **「影子或假想敵的挑戰賽」**。訓練常規被想像成真實的遭遇戰，練習者將每一個動作視為對敵人攻擊的反應；這深深地印證了對動作的完美控制以及它們在戰鬥中的本能應用。
 
 ---
 
@@ -257,7 +257,7 @@ Finally students train Muk Yan Jong by practicing away from the dummy, done by g
 
 > The Muk Yan Jong **is not a piece of wood to toughen the students arms and legs on**, rather when used properly is a sophisticated tool for developing and mastering the most advanced skills in Wing Chun.
 
-> 木人樁**不是一塊用來讓學生鍛鍊四肢使其堅硬的木頭**，相反地，如果使用得當，它是發展和掌握詠春拳最高階技巧的精密工具。
+> 木人樁 **「不是一塊用來讓學生鍛鍊四肢使其堅硬的木頭」**，相反地，如果使用得當，它是發展和掌握詠春拳最高階技巧的精密工具。
 
 It has a unique and profound place in martial arts training, being an essential study in the training of the best Wing Chun fighters for hundreds of years.
 
@@ -269,7 +269,7 @@ It has a unique and profound place in martial arts training, being an essential 
 
 Today teachers like **Sifu Gary Lam** carry on this important martial arts tradition, developing the next generation of practitioners and teachers.
 
-如今，像**林文學師傅**這樣的導師傳承了這項重要的武術傳統，培養著下一代的練習者與教師。
+如今，像 **「林文學師傅」** 這樣的導師傳承了這項重要的武術傳統，培養著下一代的練習者與教師。
 
 Wing Chun's roots are as a martial technology of revolution and military political solutions, today it continues to flourish and grow for the benefit of society and the development of individual character.
 

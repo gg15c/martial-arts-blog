@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>拳理分析 on Ving Tsun Lab — 詠春研究室</title>
+    <link>http://localhost:1313/tags/%E6%8B%B3%E7%90%86%E5%88%86%E6%9E%90/</link>
+    <description>Recent content in 拳理分析 on Ving Tsun Lab — 詠春研究室</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 15 Feb 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/%E6%8B%B3%E7%90%86%E5%88%86%E6%9E%90/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>詠春迷思 — Ving Tsun Misconceptions</title>
+      <link>http://localhost:1313/posts/ving-tsun-misconceptions/</link>
+      <pubDate>Sat, 15 Feb 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/ving-tsun-misconceptions/</guid>
+      <description>Philipp Bayer 剖析詠春拳中常見的迷思與誤解，探討中線原理、轉馬的陷阱，以及面對其他武術時的困境。</description>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>學武心得 on Ving Tsun Lab — 詠春研究室</title>
+    <link>http://localhost:1313/tags/%E5%AD%B8%E6%AD%A6%E5%BF%83%E5%BE%97/</link>
+    <description>Recent content in 學武心得 on Ving Tsun Lab — 詠春研究室</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 05 Nov 2017 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/%E5%AD%B8%E6%AD%A6%E5%BF%83%E5%BE%97/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>去洛杉磯學習林文學詠春拳</title>
+      <link>http://localhost:1313/posts/wing-chun-journey-la/</link>
+      <pubDate>Sun, 05 Nov 2017 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/wing-chun-journey-la/</guid>
+      <description>在洛杉磯跟隨 Gary Lam 師公學習詠春拳的旅程記錄。</description>
+    </item>
+  </channel>
+</rss>

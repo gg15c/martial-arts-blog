@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>木人樁 on Ving Tsun Lab — 詠春研究室</title>
+    <link>http://localhost:1313/tags/%E6%9C%A8%E4%BA%BA%E6%A8%81/</link>
+    <description>Recent content in 木人樁 on Ving Tsun Lab — 詠春研究室</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 10 Feb 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/%E6%9C%A8%E4%BA%BA%E6%A8%81/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>木人樁訓練：與影子敵人對戰 — Wooden Man Training: Fighting The Shadow Enemy</title>
+      <link>http://localhost:1313/posts/wooden-man-training/</link>
+      <pubDate>Mon, 10 Feb 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/wooden-man-training/</guid>
+      <description>深入解析詠春拳木人樁訓練的核心理念、四大特質與三段套路</description>
+    </item>
+  </channel>
+</rss>
