@@ -26,7 +26,7 @@ A lack of realistic and pragmatic thinking frequently renders otherwise effectiv
 
 One of the best ways to judge the quality of Ving Tsun is the degree to which it adheres to its core principles. One of these is the **centerline principle**.
 
-評判詠春好壞最好的方式之一，就是看它有多堅守核心原則。其中之一就是 **「中線原理」**。
+評判詠春好壞最好的方式之一，就是看它有多堅守核心原則。其中之一就是 **中線原理**。
 
 ---
 
@@ -34,7 +34,7 @@ One of the best ways to judge the quality of Ving Tsun is the degree to which it
 
 Most of the primary targets — equally important to attack and defense — are clustered along the centerline. All Ving Tsun exercises emphasize the **simultaneous attack and defense** in each action.
 
-大多數主要目標——無論對攻擊還是防守都一樣重要——都集中在中線上。所有詠春練習都強調每個動作中的 **「同時攻防」**。
+大多數主要目標——無論對攻擊還是防守都一樣重要——都集中在中線上。所有詠春練習都強調每個動作中的 **同時攻防**。
 
 ### 中線衝拳的雙重功能
 
@@ -74,7 +74,7 @@ In Ving Tsun we only pivot for three reasons:
 
 One of the biggest mistakes in this context is to assume that you can escape serious attack by simply **"stepping out of the way"** and letting your enemy run past you. This is often demonstrated gracefully and quite proudly.
 
-這裡面最大的一個錯誤觀念，就是以為面對猛烈攻擊時，只要 **「閃到旁邊」** 讓對手衝過去就能脫身。這招常被人優雅又得意地示範。
+這裡面最大的一個錯誤觀念，就是以為面對猛烈攻擊時，只要 **閃到旁邊** 讓對手衝過去就能脫身。這招常被人優雅又得意地示範。
 
 > Sure, this works, but only if my attacker isn't very bright, does not really want to hit me or attacks with a single punch.
 
@@ -84,7 +84,7 @@ One of the biggest mistakes in this context is to assume that you can escape ser
 
 As I've mentioned numerous times in the past, the Ving Tsun fighter **never underestimates his opponent**. Quite to the contrary, he always assumes that the other combatant is still in position to either defend himself or launch another attack.
 
-我已經說過無數次了，詠春拳手 **「從不小看對手」**。恰恰相反，他永遠假設對方仍然有能力防守或發動下一波攻擊。
+我已經說過無數次了，詠春拳手 **從不小看對手**。恰恰相反，他永遠假設對方仍然有能力防守或發動下一波攻擊。
 
 > **We would never compare our opponent to a blindly charging bull.**
 
@@ -116,13 +116,13 @@ Here's a more realistic scenario: my opponent is quite sure that he will defeat 
 
 With a series of precise punches that aim to deform my head, not my arm, he launches an attack from close range. Coming into contact with my extended arm does not bother him in the least. His rapid-fire punches make me pivot away.
 
-他在近距離連續出精準的拳，瞄準的是你的 **「頭」**，不是你的手臂。碰到你伸出的手對他來說根本無所謂，他的機關槍式快拳逼得你轉身閃避。
+他在近距離連續出精準的拳，瞄準的是你的 **頭**，不是你的手臂。碰到你伸出的手對他來說根本無所謂，他的機關槍式快拳逼得你轉身閃避。
 
 ### 階段二 — 物理法則的殘酷
 
 His attacking energy made me turn, but basic physics dictate that **I won't be able to move my body as quickly as my attacker can move his arms**.
 
-他的攻擊力讓你轉了身，但物理法則很殘酷：**「你轉動身體的速度絕對比不上對手揮拳的速度」**。
+他的攻擊力讓你轉了身，但物理法則很殘酷：**你轉動身體的速度絕對比不上對手揮拳的速度**。
 
 Pivoting out of the way not only rendered my own punch ineffective, it also negatively impacted my own balance due to the resulting pushback.
 
@@ -132,13 +132,13 @@ Pivoting out of the way not only rendered my own punch ineffective, it also nega
 
 My opponent doesn't wait for my next move but has already recalibrated his line of attack towards me and initiated his next attack. All of this adds up to putting me in a **worse position than before** I initiated my original pivot.
 
-你的對手不會等你的下一步動作，他已經重新校準了攻擊路線，並發動了新一波攻擊。結果，你的處境比轉身之前 **「更糟」**。
+你的對手不會等你的下一步動作，他已經重新校準了攻擊路線，並發動了新一波攻擊。結果，你的處境比轉身之前 **更糟**。
 
 ### 階段四 — 離心力的陷阱
 
 I desperately try to move to the other side and pivot yet again, but of course **my opponent can punch much faster than I can turn**.
 
-你拼命想轉向另一邊再次閃避，但 **「對手出拳的速度當然比你轉身快得多」**。
+你拼命想轉向另一邊再次閃避，但 **對手出拳的速度當然比你轉身快得多**。
 
 My opponent has gained a lot of space and is already aiming another punch at me — but my own rapid shifting and the resulting centrifugal forces are throwing me off balance. My own defensive moves aren't supported by a solid foundation and become ineffective.
 
@@ -148,14 +148,14 @@ My opponent has gained a lot of space and is already aiming another punch at me 
 
 > My last move is to turn directly into the punch of my opponent — **Game Over**.
 
-> 你最後一個動作就是正面轉進對手的拳頭裡—— **「Game Over」**。
+> 你最後一個動作就是正面轉進對手的拳頭裡—— **Game Over**。
 
 
 ### 分析 — 為什麼轉來轉去毫無意義
 
 An analysis of this hypothetical scenario shows that moving one's own centerline, i.e. pivoting to the outside, **does not impact my opponent's attack**. Unlike many willing demonstration partners, he did not play the blindly charging bull. All he had to do was to adjust his line of sight.
 
-分析這個假設情境就會發現：把自己的中線移來移去（也就是向外轉馬）根本 **「影響不了對手的攻擊」**。不像那些配合度很高的示範夥伴，真正的對手不會扮演盲目衝撞的牛。他只需要調整一下視線就行了。
+分析這個假設情境就會發現：把自己的中線移來移去（也就是向外轉馬）根本 **影響不了對手的攻擊**。不像那些配合度很高的示範夥伴，真正的對手不會扮演盲目衝撞的牛。他只需要調整一下視線就行了。
 
 | 你的處境 | 對手的處境 |
 |----------|-----------|
@@ -182,7 +182,7 @@ There are many reasons why moving your own centerline back and forth makes no se
 
 > By the way, **boxers learn very early on to always pursue and reorient themselves towards their opponent**.
 
-> 順帶一提，**「拳擊手很早就學會要不斷追擊並重新對準對手」**。
+> 順帶一提，**拳擊手很早就學會要不斷追擊並重新對準對手**。
 
 ---
 
@@ -201,7 +201,7 @@ Using skillful pursuit techniques we try to:
 
 > This approach is part of Ving Tsun and is first introduced in the second form **Chum Kiu**. It is also part of the initial Chi Sao experiences of every Ving Tsun student.
  
-> 這個概念本來就屬於詠春，最早在第二套拳 **「尋橋」** 中引入，也是每個詠春學生初學黐手時就會接觸到的內容。
+> 這個概念本來就屬於詠春，最早在第二套拳 **尋橋** 中引入，也是每個詠春學生初學黐手時就會接觸到的內容。
 
 ---
 
@@ -209,7 +209,7 @@ Using skillful pursuit techniques we try to:
 
 After more than 13 years in Ving Tsun I've noticed that many Ving Tsun styles have **significant difficulties countering other martial arts systems**.
 
-練詠春超過 13 年來，我發現很多詠春流派在面對其他武術時 **「非常吃力」**。
+練詠春超過 13 年來，我發現很多詠春流派在面對其他武術時 **非常吃力**。
 
 ### 傲慢的代價
 
@@ -219,13 +219,13 @@ There are arrogant Ving Tsun practitioners who mimic the "stupid karate guy" who
 
 > But it's exactly those "stupid guys" and their hooks and haymakers that throw the arrogant practitioner's Ving Tsun system off balance.
 
-> 但諷刺的是，往往就是這些 **「笨傢伙」** 的 **「勾拳和大擺拳」**，把傲慢的詠春打得東倒西歪。
+> 但諷刺的是，往往就是這些 **笨傢伙** 的 **勾拳和大擺拳**，把傲慢的詠春打得東倒西歪。
 
 ### 自家門派的矛盾
 
 Even though Ving Tsun is supposed to be effective and dangerous, defending from attacks from their own system — oddly enough — **never poses a real challenge**. Each punch is picture-perfect and easily deflected.
 
-儘管詠春號稱既實用又致命，但奇怪的是，面對自家門派的攻擊時卻 **「從來不費吹灰之力」**。每一拳都完美如畫、輕鬆化解。
+儘管詠春號稱既實用又致命，但奇怪的是，面對自家門派的攻擊時卻 **從來不費吹灰之力**。每一拳都完美如畫、輕鬆化解。
 
 | 面對自家門派 | 面對其他武術 |
 |-------------|-------------|
@@ -235,7 +235,7 @@ Even though Ving Tsun is supposed to be effective and dangerous, defending from 
 
 After many years of global Ving Tsun development, **haymakers cause as many problems as ever**. The amount of resulting pivoting and turning will make your head spin!
 
-然而經過這麼多年的全球發展，**「大擺拳依然讓他們一樣頭疼」**。被打得轉來轉去、頭都暈了！
+然而經過這麼多年的全球發展，**大擺拳依然讓他們一樣頭疼**。被打得轉來轉去、頭都暈了！
 
 > A kick to the head or a low kick to the shin and all hell breaks loose. It seems bizarre that supposedly illogical fighting styles, sometimes derogatorily just called "sports," are able to disrupt the Ving Tsun world so thoroughly.
 
@@ -261,7 +261,7 @@ Profound doubts about one's own system also lead to:
 
 > Ultimately this provides a fertile breeding ground for **obfuscation** as the answers to challenging questions and explanations for useless techniques can simply be labeled **"top secret."**
 
-> 最後，這就成了 **「故弄玄虛」** 的溫床——面對刁鑽的問題或解釋不了的無用技巧，只要貼上一張 **「最高機密」** 的標籤就能蒙混過關。
+> 最後，這就成了 **故弄玄虛** 的溫床——面對刁鑽的問題或解釋不了的無用技巧，只要貼上一張 **最高機密** 的標籤就能蒙混過關。
 
 ---
 
@@ -269,12 +269,12 @@ Profound doubts about one's own system also lead to:
 
 | 迷思 | 現實 |
 |------|------|
-| **「閃到旁邊就好」** | 對手會重新對準你，你越閃越不穩 |
-| **「轉馬可以化解攻擊」** | 轉馬削弱你的力道，卻不影響對手 |
-| **「對手會像蠻牛衝過去」** | 真正的對手會調整、追擊、連續攻擊 |
-| **「自家門派的攻擊最難對付」** | 恰恰相反，大擺拳和低踢才是真正的威脅 |
-| **「其他武術不合邏輯」** | 它們能輕易瓦解不切實際的詠春 |
-| **「不懂的就是最高機密」** | 那只是掩飾無用技巧的藉口 |
+| **閃到旁邊就好** | 對手會重新對準你，你越閃越不穩 |
+| **轉馬可以化解攻擊** | 轉馬削弱你的力道，卻不影響對手 |
+| **對手會像蠻牛衝過去** | 真正的對手會調整、追擊、連續攻擊 |
+| **自家門派的攻擊最難對付** | 恰恰相反，大擺拳和低踢才是真正的威脅 |
+| **其他武術不合邏輯** | 它們能輕易瓦解不切實際的詠春 |
+| **不懂的就是最高機密** | 那只是掩飾無用技巧的藉口 |
 
 ### 文章核心
 

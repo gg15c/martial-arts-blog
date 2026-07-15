@@ -16,7 +16,7 @@ draft: false
 
 In Wing Chun Kung Fu there is a saying **"First courage, second power and then technique"**, this reflects a greater importance put on the willingness to fight and on an ability to make techniques profitable.
 
-在詠春拳裡有句口訣說 **「先有勇氣、再有力量，最後講技術」**。這句話的重點是：**敢打敢拼比單純練技巧更重要**，只有先有「勇」才能把招式發揮出效益。
+在詠春拳裡有句口訣說 **先有勇氣、再有力量，最後講技術**。這句話的重點是：**敢打敢拼比單純練技巧更重要**，只有先有「勇」才能把招式發揮出效益。
 
 ---
 
@@ -55,7 +55,7 @@ Regardless of the type of power and its implementation, power must be trained an
 
 To this end Wing Chun has developed a variety of methods to promote and train striking power, chief among them is working with the **Luk Dim Boon Gwan** (The Six and a one half point pole or Dragon Pole). The advantage to using the Dragon Pole is that it naturally coordinates various qualities needed to maximize power; thus training the student to use the **body, breath and mind** all in one action.
 
-為了培養這樣的力量，詠春發展了許多訓練方法，其中最核心的就是 **「六點半棍」**或稱「龍棍」。使用六點半棍的好處在於，它本身就能把**身體、呼吸、意念**三者同時協調起來，讓學員在一次動作裡同時鍛鍊出發力所需的所有條件，從而把力量發揮到最大。
+為了培養這樣的力量，詠春發展了許多訓練方法，其中最核心的就是 **六點半棍**或稱「龍棍」。使用六點半棍的好處在於，它本身就能把**身體、呼吸、意念**三者同時協調起來，讓學員在一次動作裡同時鍛鍊出發力所需的所有條件，從而把力量發揮到最大。
 
 ---
 
@@ -63,7 +63,7 @@ To this end Wing Chun has developed a variety of methods to promote and train st
 
 Deriving striking power from an alignment with the ground or from the body alignment and mass in motion is generally referred to as **structural power**. Structural power is an understanding of the concept of **Power Points** on the body and how they relate to using the angle of the joints in unison.
 
-從腳踏在地面、或是身體對齊、質量在移動時產生的擊力，通常會稱作 **「結構力量」**。「結構力量」其實就是在說 **「力量點」** 這個概念——每個力量點都對應身體的 12 大關節，只要把這些關節的角度同時調整好、穩固住，就能把力量最大限度地從身體傳到目標。
+從腳踏在地面、或是身體對齊、質量在移動時產生的擊力，通常會稱作 **結構力量**。「結構力量」其實就是在說 **力量點** 這個概念——每個力量點都對應身體的 12 大關節，只要把這些關節的角度同時調整好、穩固住，就能把力量最大限度地從身體傳到目標。
 
 ### 12 大關節的 6 個關鍵力量點
 
@@ -144,7 +144,7 @@ Modern Wing Chun practice develops the Dragon Pole less for its application as a
 
 Sifu Gary Lam of Monterey Park California describes the Dragon Pole as critical training for the development of what he calls **Internal Power**.
 
-加州蒙特利公園的林師父告訴我們，六點半棍是培養他所說的 **「內力」** 的關鍵訓練工具。
+加州蒙特利公園的林師父告訴我們，六點半棍是培養他所說的 **內力** 的關鍵訓練工具。
 
 ### 什麼是內力？
 
@@ -156,7 +156,7 @@ Internal Power is a term used to describe the use of the structural framework of
 
 He often demonstrates Internal Power by exhibiting a devastating marshaling of power in the many strikes and projection techniques of Wing Chun, a way of doing Wing Chun that a senior Wing Chun practitioner and student of Sifu Lam's dubbed **"scary Wing Chun"**.
 
-林師父常常用六點半棍示範內力，他在詠春手法的各種擊打與推等動作裡，能一次性釋放出驚人的威力。這種打法被他的資深學生稱為 **「嚇人的詠春」**，因為看起來非常凶猛。
+林師父常常用六點半棍示範內力，他在詠春手法的各種擊打與推等動作裡，能一次性釋放出驚人的威力。這種打法被他的資深學生稱為 **嚇人的詠春**，因為看起來非常凶猛。
 
 ### 四大指標
 
@@ -191,7 +191,7 @@ Then the student is given various lines of techniques to perform, these cover th
 
 At this stage the Arrow Punching exercise and single leg form training are introduced, these practices develop whole body power in motion and train leg strength and balance.
 
-在這個階段會加入 **「箭拳」** 練習以及 **「單腿」** 練習：
+在這個階段會加入 **箭拳** 練習以及 **單腿** 練習：
 
 | 練習 | Exercise | 訓練目標 |
 |------|----------|----------|
@@ -212,7 +212,7 @@ The Dragon Pole form is where it gets its name as the "Six and one half point po
 
 The form should be done with a **relaxed firmness** (Yin with Yang inside), harnessing the structural power of the body behind all pole actions.
 
-練這套路時，要求 **「放鬆中帶剛」**（亦即「陰裡有陽」），把身體的結構力量全部應用在每一個棍法上。
+練這套路時，要求 **放鬆中帶剛**（亦即「陰裡有陽」），把身體的結構力量全部應用在每一個棍法上。
 
 ### 林師父的核心觀點
 
@@ -273,7 +273,7 @@ Advanced levels of all form and drill training end by linking the various techni
 
 Wing Chun power training is continued further by practicing the **Pun Sao** drill and eventually practicing the **Baat Jaam Do** (Double 8 cut knife).
 
-詠春的力量訓練接下來會練 **「盤手」** 這套功夫，最後再練 **「八斬刀」**。
+詠春的力量訓練接下來會練 **盤手** 這套功夫，最後再練 **八斬刀**。
 
 The Pun Sao drill is a variation of the basic Qi Sao training (Wing Chun free sparring training), and as in Qi Sao is begun with the arms interlocked and the legs positioned in a training stance. In Pun Sao the goal is to learn how to harness and apply structural power in Qi Sao, this is done by an emphases on the sitting (structural alignment with the ground) and moving (body mass in motion) power as pressure is applied to the opponents centerline.
 
@@ -304,7 +304,7 @@ Wing Chun was designed to provide a direct and powerful answer to the fast paced
 
 > Sifu Lam describes the journey of Wing Chun training as going **from the simple to the complex and in the end back to the simple again**; advanced Wing Chun develops not from its outward form but rather from a deepening of the essential concepts, structure and skills.
 
-> 林師父把詠春的修行過程比喻成 **「從簡單到複雜，再回到簡單」** ；高手的詠春不在於外形變得多花俏，而是把基本概念、身體結構與技巧不斷深化，最後回到最純粹、最有效的打法。
+> 林師父把詠春的修行過程比喻成 **從簡單到複雜，再回到簡單** ；高手的詠春不在於外形變得多花俏，而是把基本概念、身體結構與技巧不斷深化，最後回到最純粹、最有效的打法。
 
 ### 傳承與革新
 

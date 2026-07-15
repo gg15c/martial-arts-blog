@@ -18,7 +18,7 @@ Wing Chun Kung Fu is possibly the best known of the southern Chinese martial art
 
 Wing Chun primarily specializes in being a direct and extremely practical method of Chinese boxing, but it also develops a variety of techniques not specifically related to striking, perhaps the least understood is the double handed push or **Butterfly Hands**.
 
-詠春拳可能是南方中國武術中最著名的一種，擁有數百年的歷史。近年來，它因為是李小龍早期武術系統「振藩詠春」的基礎以及成為著名香港挑戰武者**黃淳樑**的首選系統而獲得了激增的受歡迎度。詠春拳是一種直接且非常實用的中國技擊方法，但它也發展出許多與打擊無關的技巧，或許最不為人知的是雙手掌推或 **「蝴蝶手」**。
+詠春拳可能是南方中國武術中最著名的一種，擁有數百年的歷史。近年來，它因為是李小龍早期武術系統「振藩詠春」的基礎以及成為著名香港挑戰武者**黃淳樑**的首選系統而獲得了激增的受歡迎度。詠春拳是一種直接且非常實用的中國技擊方法，但它也發展出許多與打擊無關的技巧，或許最不為人知的是雙手掌推或 **蝴蝶手**。
 
 ---
 
@@ -46,11 +46,11 @@ Secondary applications relate to:
 
 第二種應用包括：
 
-- 同時對付 **「多個對手」**
-- 反制對手的 **「抓行為」**
-- 撬動對手的 **「根重心」**
-- 干擾其 **「平衡」**
-- 將抱排手用作 **「近距離的掌擊」**，就像鐵掌打擊一樣造成內部損傷
+- 同時對付 **多個對手**
+- 反制對手的 **抓行為**
+- 撬動對手的 **根重心**
+- 干擾其 **平衡**
+- 將抱排手用作 **近距離的掌擊**，就像鐵掌打擊一樣造成內部損傷
 
 ---
 
@@ -58,7 +58,7 @@ Secondary applications relate to:
 
 The Po Pai technique falls into the category of **chance actions**, in contrast to primary actions that involve a simultaneous deflection and strike. Chance actions almost always follow after an initial strike, thus they are second or third actions in a combination and usually rely on the support of a primary striking action.
 
-「抱排」技術屬於 **「機會動作」** 中的範疇，與涉及連消帶打的主要動作形成對比。機會動作幾乎總是在初次擊打之後才進行，因此它們是組合動作中的第二或第三個動作，通常依賴主要擊打動作的支持。
+「抱排」技術屬於 **機會動作** 中的範疇，與涉及連消帶打的主要動作形成對比。機會動作幾乎總是在初次擊打之後才進行，因此它們是組合動作中的第二或第三個動作，通常依賴主要擊打動作的支持。
 
 ### 詠春拳中的機會動作技術
 
@@ -79,7 +79,7 @@ Chance action techniques in Wing Chun also include:
 
 Po Pai is considered a **second gate style technique**, training at a distance that demands that the practitioner step in deeply, totally occupying the opponent's position.
 
-「抱排」被視為 **「第二門的動作」**，訓練要求練習者踩進去對方深處，完全佔據對手的位置。
+「抱排」被視為 **第二門的動作**，訓練要求練習者踩進去對方深處，完全佔據對手的位置。
 
 ### 第一門 vs 第二門 — First Gate vs Second Gate
 
@@ -92,7 +92,7 @@ Po Pai is considered a **second gate style technique**, training at a distance t
 
 Second gate fighting differs from the typical crossing hand striking range in that the distance puts the practitioner at risk and a trap or lock must be used for safety's sake, with Po Pai pushing no traps are used so a **total commitment of position** is necessary at the onset of the technique.
 
-第二門戰鬥與典型的過手擊打範圍不同，那種距離會讓練習者處於危險之中，為了安全必須先設圈套或鎖住對手。使用抱排時則不設圈套，故在動作開始之際必須 **「完整投入、全力佔據位置」**。
+第二門戰鬥與典型的過手擊打範圍不同，那種距離會讓練習者處於危險之中，為了安全必須先設圈套或鎖住對手。使用抱排時則不設圈套，故在動作開始之際必須 **完整投入、全力佔據位置**。
 
 ---
 
@@ -100,7 +100,7 @@ Second gate fighting differs from the typical crossing hand striking range in th
 
 In advanced training the Po Pai becomes very important in developing what my Wing Chun teacher **Sifu Gary Lam** calls **"winning from losing."**
 
-在高階訓練裡，抱排變得尤為重要，因為它能培養師父所稱的 **「以失之勝」** 概念。
+在高階訓練裡，抱排變得尤為重要，因為它能培養師父所稱的 **以失之勝** 概念。
 
 > This idea of "winning from losing" refers to moving within your opponent's attacking action, then at the moment when they are vulnerable using a matching counter attack.
 
@@ -184,7 +184,7 @@ Weapons training plays a vital role in developing the correct power and footwork
 
 The last quality developed and perhaps the most elusive is **Internal Power**.
 
-最後要培養，而且也是最難抓到的，就是 **「內勁」**。
+最後要培養，而且也是最難抓到的，就是 **內勁**。
 
 > Internal power involves an understanding of how to direct the natural core strength of your body, supported by the ground and transmitted by the joints, against the opponent's physical centerline.
 
@@ -196,7 +196,7 @@ This is done in conjunction with making the opponent's direction and position wr
 
 The training technique crucial for developing internal power in Wing Chun is **Poon Sao**.
 
-在詠春拳裡，最關鍵的內勁練習叫 **「盤手」**。
+在詠春拳裡，最關鍵的內勁練習叫 **盤手**。
 
 Poon Sao training is done with a partner and uses the normal Qi Sao (a freestyle practice, called the soul of Wing Chun), hand and feet configurations. The difference is that instead of developing crossing hand skills (striking) the goal is to find and direct the coordinated force of your own body's facing power against your partner's centerline.
 
@@ -204,7 +204,7 @@ Poon Sao training is done with a partner and uses the normal Qi Sao (a freestyle
 
 > Done correctly the technique has the effect of launching your training partner off the ground and back several feet.
 
-> 動作做對了，盤手的力量足以把對手 **「彈離地面，往後退好幾尺」**。
+> 動作做對了，盤手的力量足以把對手 **彈離地面，往後退好幾尺**。
 
 Later a more advanced version of Poon Sao includes the counter action from the training partner and this is ultimately done as a fluid drill exchanging roles back and forth.
 
@@ -216,7 +216,7 @@ Later a more advanced version of Poon Sao includes the counter action from the t
 
 **Sifu Gary Lam** refers to the Butterfly Hands as a **lost art**, rarely trained and almost never seen in Qi Sao.
 
-林師父說，抱排手現在幾乎是 **「失傳的招式」**，平常很少有人練，甚至在黐手裡也幾乎找不到。
+林師父說，抱排手現在幾乎是 **失傳的招式**，平常很少有人練，甚至在黐手裡也幾乎找不到。
 
 > He considers Po Pai training a unique and powerful ability in a self-defense situation, but it is equally important in promoting the proper structure and hand/body/leg coordination that all Wing Chun techniques are benefited by.
 
@@ -224,7 +224,7 @@ Later a more advanced version of Poon Sao includes the counter action from the t
 
 In Sifu Lam's Wing Chun the Po Pai technique is an essential part of advanced Wing Chun training and offers an **un-paralleled opportunity** to up-grade the practitioner's level of expertise.
 
-在林師父的詠春拳裡，抱排是高階訓練不可或缺的一環，能給練習者提供一個 **「前所未有的機會」**，讓他的功夫水平大幅提升。
+在林師父的詠春拳裡，抱排是高階訓練不可或缺的一環，能給練習者提供一個 **前所未有的機會**，讓他的功夫水平大幅提升。
 
 ---
 

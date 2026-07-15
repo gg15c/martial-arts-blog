@@ -58,7 +58,7 @@ Being able to take advantage of an opening is fundamental in the system. If one 
 
 Long pole training, especially the low stance, contributes greatly to increased start speed and faster footwork.
 
-長棍訓練，尤其是低馬步，對提升 **「啟動速度」** 和 **「步法靈活度」** 幫助極大。
+長棍訓練，尤其是低馬步，對提升 **啟動速度** 和 **步法靈活度** 幫助極大。
 
 ![啟動速度與步法訓練](pole-3.jpg)
 
@@ -66,7 +66,7 @@ Long pole training, especially the low stance, contributes greatly to increased 
 
 Another important skill, developed through various pole exercises, is **power from the unified body**. Without this, punches are mechanical, deriving its power based on the diameter of the practitioner's arms.
 
-透過各種棍法練習培養出的另一個重要技能，就是 **「整體發力」**。少了這個，出拳就會很機械化，力量完全取決於你手臂有多粗。
+透過各種棍法練習培養出的另一個重要技能，就是 **整體發力**。少了這個，出拳就會很機械化，力量完全取決於你手臂有多粗。
 
 > Even somebody that has done "Arm Ving Tsun" for 15 years is going to look like a raw beginner when starting this exercise. Unfortunately, he now is 15 years older and his Ving Tsun has missed out on 15 years of essential influences.
 
@@ -78,7 +78,7 @@ Another important skill, developed through various pole exercises, is **power fr
 
 Another important point is the fact that long pole training not only increases punching power, but also **punching precision**, meaning concentrating max force at a small area of impact.
 
-長棍訓練不僅能增加出拳的 **「威力」**，還能提升打擊的 **「精準度」**，也就是能把最大的力量集中在一個微小的打擊面上。
+長棍訓練不僅能增加出拳的 **威力**，還能提升打擊的 **精準度**，也就是能把最大的力量集中在一個微小的打擊面上。
 
 > More about that later in my book which will include some of Wong Shun Leung's teachings on weaponry, some of them handwritten and translated.
 
@@ -130,11 +130,11 @@ Would one ban a third grader from school, just because he is at sixth grade skil
 
 In Kung Fu and especially in Ving Tsun, where a holistic bodily development is emphasised, it is majorly important to start in your early years to get a decent final result.
 
-在功夫裡，尤其是強調 **「身體全面發展」** 的詠春，趁年輕早點開始練，對最終成果來說非常重要。
+在功夫裡，尤其是強調 **身體全面發展** 的詠春，趁年輕早點開始練，對最終成果來說非常重要。
 
 > But if this development is blocked, postponed or thwarted at all, it is questionable that any result be achieved by the probably by now "turned grey" senior student, who might not be able to even lift the pole anymore.
 
-> 如果這個發展被阻擋、延後或打斷，那些可能已經「頭髮花白」的資深學生還能不能練出成果就很難說了—— **「到那時候他們可能連棍子都舉不起來了」**。
+> 如果這個發展被阻擋、延後或打斷，那些可能已經「頭髮花白」的資深學生還能不能練出成果就很難說了—— **到那時候他們可能連棍子都舉不起來了**。
 
 ---
 
