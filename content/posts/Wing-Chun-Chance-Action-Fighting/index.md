@@ -61,6 +61,8 @@ Sifu Lam presents the entirety of his Wing Chun system in four general levels; t
 
 林文學師父把他的詠春拳完整體系分成**四個大階段**，每個階段依學員的能力層級劃分，構成課程的發展藍圖。
 
+---
+
 ### 第一層級 — 基礎與過手
 
 Each student starts with a course of basic training, learning the fundamental concepts, principles and rudimentary applications of Wing Chun. Then the crossing hand system is taught; this covers all skills and techniques for going into an opponent's position and landing a combination of blows to the head and neck. In Sifu Lam's school this covers all training up to a particular technique called changing hand, this completes the material covered for level one.
@@ -72,13 +74,6 @@ Each student starts with a course of basic training, learning the fundamental co
 After level one has been properly digested the student enters into the second level training, focusing now on the chance action techniques as well as the closing and footwork training.
 
 第一層級徹底消化之後，學員會進入第二層級的訓練，會聚焦在**機會行為的技巧**訓練，並同時加強**擒拿與步法**的練習。
-
-| 層級 | Level | 訓練重點 |
-|------|-------|----------|
-| **第一層級** | Level 1 | 基礎概念、過手系統、轉手 |
-| **第二層級** | Level 2 | 機會動作、擒拿、步法 |
-| **第三層級** | Level 3 | 進階訓練 |
-| **第四層級** | Level 4 | 大師級訓練 |
 
 ---
 
@@ -99,7 +94,7 @@ When learning in the first level training, practicing Chi Sao is about hitting t
 | **重點** | 打 | 控制 |
 
 - **第一層級**練黐手時，重點是「打到」對手，同時盡量「不被打到」。
-- 進入**第二層級**後，學員開始學會**控制對手的結構**，並逐步培養一種以感覺為主的格鬥方式，林師父稱之為**「自然反應」**。
+- 進入**第二層級**後，學員開始學會**控制對手的結構**，並逐步培養一種以感覺為主的格鬥方式，林師父稱之為 **「自然反應」** 。
 
 ### 自然反應格鬥
 
@@ -248,7 +243,7 @@ Pushing training is separated into two categories, those being one handed or two
 
 One handed pushing (toi sao) uses the lead hand to push on the opponent's centerline, usually applying pressure just below the shoulder at the humeral joint. The other hand is used to misdirect the opponent's position and to bring them slightly off balance, Sifu Lam calls this **making the opponent wrong**.
 
-單手推的做法是，用前手在對手的中線上施壓，通常把力量放在肩膀以下、肱骨關節的部位。同時，後手則用來**誤導對手的身形**，把對手稍微弄偏、讓他失去平衡。林師父把這種動作稱作**「讓對手錯位」**。
+單手推的做法是，用前手在對手的中線上施壓，通常把力量放在肩膀以下、肱骨關節的部位。同時，後手則用來**誤導對手的身形**，把對手稍微弄偏、讓他失去平衡。林師父把這種動作稱作 **「讓對手錯位」**。
 
 ### 讓對手錯位 — Making The Opponent Wrong
 
