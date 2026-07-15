@@ -94,7 +94,7 @@ When learning in the first level training, practicing Chi Sao is about hitting t
 | **重點** | 打 | 控制 |
 
 - **第一層級**練黐手時，重點是「打到」對手，同時盡量「不被打到」。
-- 進入**第二層級**後，學員開始學會**控制對手的結構**，並逐步培養一種以感覺為主的格鬥方式，林師父稱之為 **「自然反應」** 。
+- 進入**第二層級**後，學員開始學會**控制對手的結構**，並逐步培養一種以感覺為主的格鬥方式，林師父稱之為 **自然反應**。
 
 ### 自然反應格鬥
 
@@ -125,7 +125,7 @@ This is an important distinction that must be made, because here you must trust 
 
 In practice this means being able to have the discipline, self-control and character to not always strike to win every match of Chi Sao, as Sifu Lam says, **"You must train with a open and big heart"**.
 
-在實際練習時，意味著你必須有**紀律、克制與品格**，不把每一次黐手都當成必須全力擊中才能贏的比賽。正如林師父所說：**「要以開放、寬大的心來練習。」**
+在實際練習時，意味著你必須有**紀律、克制與品格**，不把每一次黐手都當成必須全力擊中才能贏的比賽。正如林師父所說：**要以開放、寬大的心來練習。**
 
 ### 關掉肌肉力量
 
@@ -177,7 +177,7 @@ The student wishing to progress must often slow down his techniques so that corr
 
 > Sifu Lam can often be heard saying, **"If you want to go faster, slow down, if you want to be stronger, train softer"**.
 
-> 林師父常說的話正是這個道理：**「想跑得快就慢走，想變得強就練得柔。」**
+> 林師父常說的話正是這個道理：**想跑得快就慢走，想變得強就練得柔。**
 
 這句話提醒我們，真正的力量來自於穩固的結構與柔和的控制，而不是單純的速度或硬碰硬的力量。
 
@@ -243,7 +243,7 @@ Pushing training is separated into two categories, those being one handed or two
 
 One handed pushing (toi sao) uses the lead hand to push on the opponent's centerline, usually applying pressure just below the shoulder at the humeral joint. The other hand is used to misdirect the opponent's position and to bring them slightly off balance, Sifu Lam calls this **making the opponent wrong**.
 
-單手推的做法是，用前手在對手的中線上施壓，通常把力量放在肩膀以下、肱骨關節的部位。同時，後手則用來**誤導對手的身形**，把對手稍微弄偏、讓他失去平衡。林師父把這種動作稱作 **「讓對手錯位」**。
+單手推的做法是，用前手在對手的中線上施壓，通常把力量放在肩膀以下、肱骨關節的部位。同時，後手則用來**誤導對手的身形**，把對手稍微弄偏、讓他失去平衡。林師父把這種動作稱作 **讓對手錯位**。
 
 ### 讓對手錯位 — Making The Opponent Wrong
 
