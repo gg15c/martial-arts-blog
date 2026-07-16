@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>技法分析 on Ving Tsun Lab — 詠春研究室</title>
-    <link>http://localhost:1313/tags/%E6%8A%80%E6%B3%95%E5%88%86%E6%9E%90/</link>
+    <link>https://gg15c.github.io/martial-arts-blog/tags/%E6%8A%80%E6%B3%95%E5%88%86%E6%9E%90/</link>
     <description>Recent content in 技法分析 on Ving Tsun Lab — 詠春研究室</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 30 Jan 2025 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/%E6%8A%80%E6%B3%95%E5%88%86%E6%9E%90/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://gg15c.github.io/martial-arts-blog/tags/%E6%8A%80%E6%B3%95%E5%88%86%E6%9E%90/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>詠春拳的抱排手 — The Butterfly Hands of Wing Chun</title>
-      <link>http://localhost:1313/posts/butterfly-hands-wing-chun/</link>
+      <link>https://gg15c.github.io/martial-arts-blog/posts/butterfly-hands-wing-chun/</link>
       <pubDate>Thu, 30 Jan 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/butterfly-hands-wing-chun/</guid>
+      <guid>https://gg15c.github.io/martial-arts-blog/posts/butterfly-hands-wing-chun/</guid>
       <description>深入解析詠春拳中幾近失傳的技法 — 抱排手</description>
     </item>
   </channel>
