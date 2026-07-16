@@ -1,0 +1,19 @@
+{{- with site.Params.homeInfoParams }}
+<article class="first-entry home-info">
+    <header class="entry-header">
+        <div style="margin-bottom: 20px;">
+            <img src="/images/logo.jpg" alt="Ving Tsun Lab" style="max-height: 300px; display: block; margin: 0 auto;">
+        </div>
+        <h1>
+            {{ .Title | markdownify }}
+        </h1>
+    </header>
+    <div class="entry-content md-content">
+        {{ $opts := dict "display" "block" }}
+        {{ .Content | $.Page.RenderString $opts }}
+    </div>
+    <footer class="entry-footer">
+        {{ partial "social_icons.html" (dict "align" site.Params.homeInfoParams.AlignSocialIconsTo) }}
+    </footer>
+</article>
+{{- end -}}

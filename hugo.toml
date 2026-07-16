@@ -19,7 +19,7 @@ paginate = 5
   hideCopyright = true
 
 [params.homeInfoParams]
-  Title = "Ving Tsun Lab 🥋"
+  Title = "Ving Tsun Lab"
   Content = "一位詠春拳學習者的修練筆記。記錄拳理、技法與學武旅程。\n\nA Ving Tsun practitioner's training journal. Documenting techniques, principles, and the martial arts journey."
 
 [menu]
