@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Wing Chun on Martial Arts Blog</title>
-    <link>http://localhost:38607/martial-arts-blog/tags/wing-chun/</link>
-    <description>Recent content in Wing Chun on Martial Arts Blog</description>
+    <title>Wing Chun on Ving Tsun Lab — 詠春研究室</title>
+    <link>http://localhost:1313/tags/wing-chun/</link>
+    <description>Recent content in Wing Chun on Ving Tsun Lab — 詠春研究室</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 02 Jul 2026 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:38607/martial-arts-blog/tags/wing-chun/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 16 Jul 2026 15:35:00 +0800</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/wing-chun/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>The Butterfly Hands of Wing Chun</title>
-      <link>http://localhost:38607/martial-arts-blog/posts/the-butterfly-hands-of-wing-chun/</link>
-      <pubDate>Thu, 02 Jul 2026 00:00:00 +0000</pubDate>
-      <guid>http://localhost:38607/martial-arts-blog/posts/the-butterfly-hands-of-wing-chun/</guid>
-      <description>Exploring the butterfly hands technique in Wing Chun martial arts.</description>
+      <title>Wing Chun Qi Sao Training</title>
+      <link>http://localhost:1313/posts/wing-chun-qi-sao-training/</link>
+      <pubDate>Thu, 16 Jul 2026 15:35:00 +0800</pubDate>
+      <guid>http://localhost:1313/posts/wing-chun-qi-sao-training/</guid>
+      <description>A training journal on Wing Chun Qi Sao (Chi Sao / 黐手) practice.</description>
     </item>
   </channel>
 </rss>
