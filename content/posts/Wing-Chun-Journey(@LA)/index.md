@@ -4,7 +4,7 @@ slug: "wing-chun-journey-la"
 date: 2017-11-05
 tags: ["詠春拳", "洛杉磯", "Gary Lam", "學武心得"]
 categories: ["學武心得"]
-summary: "在洛杉磯跟隨 Gary Lam 師公學習詠春拳的旅程記錄。"
+summary: "2017 年，飛往洛杉磯跟隨 Gary Lam 師公學拳。一段個人的學武旅程記錄。"
 draft: false
 ---
 

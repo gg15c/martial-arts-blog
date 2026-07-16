@@ -4,7 +4,7 @@ slug: "chance-action-fighting"
 date: 2025-02-25
 tags: ["詠春拳", "Gary Lam", "黃淳樑", "機會動作", "抱排", "黐手", "拳理分析"]
 categories: ["功夫"]
-summary: "Gregory E. LeBlanc 深入解析詠春拳的機會動作系統 — 從推拉技法、黐手訓練到追手禁令。"
+summary: "機會動作、追手禁令、黐手推拉的運用。Gregory E. LeBlanc 對詠春實戰的另類觀點。"
 draft: false
 ---
 

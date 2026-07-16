@@ -4,7 +4,7 @@ slug: "ving-tsun-misconceptions"
 date: 2025-02-15
 tags: ["詠春拳", "Philipp Bayer", "黃淳樑", "中線原理", "拳理分析"]
 categories: ["功夫"]
-summary: "Philipp Bayer 剖析詠春拳中常見的迷思與誤解，探討中線原理、轉馬的陷阱，以及面對其他武術時的困境。"
+summary: "中線、轉馬、面對其他武術 — 這些詠春常見誤解，Philipp Bayer 如何解讀？"
 draft: false
 ---
 

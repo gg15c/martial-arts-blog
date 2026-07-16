@@ -4,7 +4,7 @@ slug: "dragon-pole-training"
 date: 2025-02-01
 tags: ["詠春拳", "六點半棍", "Gary Lam", "武器訓練", "內勁"]
 categories: ["功夫"]
-summary: "深入解析詠春六點半棍的歷史淵源與四階段訓練體系"
+summary: "Daniel O'Neill 與詠春六點半棍：從無到有，四階段練出力量。"
 draft: false
 ---
 

@@ -4,7 +4,7 @@ slug: "wck-power-training"
 date: 2025-02-20
 tags: ["詠春拳", "Gary Lam", "六點半棍", "內力", "結構力量", "訓練方法"]
 categories: ["功夫"]
-summary: "Gregory E. LeBlanc 深入解析詠春拳的力量訓練體系 — 從結構力量、六點半棍到盤手與八斬刀。"
+summary: "力量從何而來？從結構、六點半棍到八斬刀，Gregory E. LeBlanc 談詠春的力量訓練。"
 draft: false
 ---
 

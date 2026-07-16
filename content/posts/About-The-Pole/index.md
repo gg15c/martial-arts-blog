@@ -4,7 +4,7 @@ slug: "about-the-pole"
 date: 2025-02-05
 tags: ["詠春拳", "六點半棍", "Philipp Bayer", "黃淳樑", "訓練理念"]
 categories: ["功夫"]
-summary: "Philipp Bayer 探討六點半棍的訓練時機與重要性 — 該早練還是晚練？"
+summary: "長棍該早練還是晚練？Philipp Bayer 對六點半棍訓練時機的看法。"
 draft: false
 ---
 

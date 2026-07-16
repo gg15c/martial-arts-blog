@@ -4,7 +4,7 @@ slug: "butterfly-hands-wing-chun"
 date: 2025-01-30
 tags: ["詠春拳", "抱排", "Po Pai", "Gary Lam", "技法分析"]
 categories: ["功夫"]
-summary: "深入解析詠春拳中幾近失傳的技法 — 抱排手"
+summary: "抱排手：一門幾近失傳的詠春技法。Gregory E. LeBlanc 帶你一探究竟。"
 draft: false
 ---
 
